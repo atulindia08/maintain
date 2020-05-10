@@ -1,0 +1,17 @@
+/* static values :-moz-user-disabled
+border-color - #ececec */
+
+.brdr1 {
+    border: 1px solid #afacac;
+}
+
+.col-centered {
+    float: none;
+    margin: 0 auto;
+}
+
+.loginWrapper {
+    box-shadow: 3px 4px 5px #afacac;
+    padding: 10px;
+    margin-top: 10px;
+}
